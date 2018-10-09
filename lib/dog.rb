@@ -3,7 +3,7 @@
 class Dog 
 
   
-  def initialize(file, name)
+  def initialize
     @name = name
   end 
   
